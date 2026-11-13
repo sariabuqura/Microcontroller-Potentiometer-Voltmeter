@@ -1,0 +1,17 @@
+# mikroC PRO for PIC build output and IDE state (regenerated on every build)
+*.asm
+*.lst
+*.mcl
+*.dbg
+*.dct
+*.dlt
+*.brk
+*.bmk
+*.cp
+*.log
+*.c.ini
+*.user.dic
+*_callertable.txt
+*.mcpigroup
+
+# Kept on purpose: *.c / *.h (source), *.mcppi (project), *.cfg (config bits), *.hex (ready-to-flash firmware)
